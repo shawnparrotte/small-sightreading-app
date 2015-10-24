@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  margin-bottom: 40px;
+}
+
+.readThis {
+  border: solid black;
+  display: inline-block;
+  margin: 0 auto 0;
+  height: 100px;
+  width: 100px;
+}
+
+.readThis h1 {
+  margin: 5px 0 0 0;
+  padding: 8px;
+  font-family: Arial, sans-serif;
+  font-size: 70px;
+  vertical-align: middle;
+}
+
+.topSpace {
+  margin-top: 150px;
+}
